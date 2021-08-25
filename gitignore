@@ -1,0 +1,22 @@
+# Java related
+target/**
+*.jar
+*.war
+*.ear
+*.class
+
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# Maven
+log/
+target/
