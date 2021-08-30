@@ -1,1 +1,0 @@
-INSERT INTO customer VALUES (1, 'Denis', 'Ivanov', 'Minsk', 10000.00);
